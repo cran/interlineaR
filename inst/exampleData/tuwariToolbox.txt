@@ -1,0 +1,63 @@
+\_sh v3.0  621  Text
+
+\id 2014.VI.T62 Manas. Comment ils sont allés aider Samuel à finir une palissade.
+
+\ref 2014.VI.T62.001
+\tx ta samuelwe    miasanene              mwe tema  tuwe fo.     mofone
+\mb ta samuel -we  m- iasa    -ne   -ne   mwe tema  tuwe fou     m- fou     -ne
+\ge we Samuel -M.S ?- to_help -Part -Part he  fence half to_rope ?- to_rope -Part
+\ps Pr Npr    -sfx ?- v       -mode -mode Pr  n     adv  v       ?- v       -mode
+
+\tx foaplene        ta ho        eisefe wamealei
+\mb fou     -aplene ta ho        eisefe wa   - mea    -lei
+\ge to_rope -Acc    we yesterday back   back - upside -PL
+\ps v       -mod    Pr adv       adv    cli  - cli    -gdr
+
+\ft We helped Samuel to make a fence. Once the fence done, we went back to this side [of the river].
+\nt fo ~ fou
+
+\ref 2014.VI.T62.002
+\tx ta samuelwe    melimwii
+\mb ta samuel -we  meli    -mwii
+\ge we Samuel -M.S to_talk -Masc.Sing
+\ps Pr Npr    -sfx v       -tns
+
+\ft we speak to Samuel
+\ref 2014.VI.T62.003
+\tx samuelwe    talilo      melimwii
+\mb samuel -we  ta -li  -lo meli    -mwii
+\ge Samuel -Com we -?   -?  to_talk -Masc.Sing
+\ps Npr    -sfx Pr -sfx -?  v       -tns
+
+\ft Samuel speak to us
+\ref 2014.VI.T62.004
+\tx samuelwe    talilo      nefimwii
+\mb samuel -we  ta -li  -lo nefi    -mwii
+\ge Samuel -Com we -?   -?  to_give -Masc.Sing
+\ps Npr    -sfx Pr -sfx -?  v       -tns
+
+\ft Samuel give to us
+\ref 2014.VI.T62.005
+\tx ta kopulo   temami    fonailii
+\mb ta kopulo   tema  -mi fou     -nai -lei
+\ge we together fence -5  to_rope -IRR -PL
+\ps Pr adv      n5    -n5 v       -tns -gdr
+
+\nt tema-fo or tema-mi ?
+\ft we together will make fence
+\ref 2014.VI.T62.006
+\tx a  sihomole    tuwe holua
+\mb a  sihomo -le  tuwe holua
+\ge I  work   -PL  half to_work
+\ps Pr n      -gdr adv  v
+
+\ft I made half of the work
+\ref 2014.VI.T62.007
+\tx a  meane        iio
+\mb a  mea    -ne   i     -io
+\ge I  upside -Part to_go -Act
+\ps Pr cli    -mode v     -mod
+
+\nt analyser me-a (go) -ne
+\ft I go to the other side.
+

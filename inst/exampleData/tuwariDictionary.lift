@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<!-- This is an arbitrary selection of some lexems -->
+
+
+<!-- See http://code.google.com/p/lift-standard for more information on the format used here. -->
+<lift producer="SIL.FLEx 8.2.8.42510" version="0.13">
+<header>
+<ranges>
+<range id="dialect" href="file://E:/lexicon20180203/lexicon20180203.lift-ranges"/>
+<range id="etymology" href="file://E:/lexicon20180203/lexicon20180203.lift-ranges"/>
+<range id="grammatical-info" href="file://E:/lexicon20180203/lexicon20180203.lift-ranges"/>
+<range id="lexical-relation" href="file://E:/lexicon20180203/lexicon20180203.lift-ranges"/>
+<range id="note-type" href="file://E:/lexicon20180203/lexicon20180203.lift-ranges"/>
+<range id="paradigm" href="file://E:/lexicon20180203/lexicon20180203.lift-ranges"/>
+<range id="reversal-type" href="file://E:/lexicon20180203/lexicon20180203.lift-ranges"/>
+<range id="semantic-domain-ddp4" href="file://E:/lexicon20180203/lexicon20180203.lift-ranges"/>
+<range id="status" href="file://E:/lexicon20180203/lexicon20180203.lift-ranges"/>
+<range id="users" href="file://E:/lexicon20180203/lexicon20180203.lift-ranges"/>
+<range id="location" href="file://E:/lexicon20180203/lexicon20180203.lift-ranges"/>
+<!-- The following ranges are produced by FieldWorks Language Explorer, and are not part of the LIFT standard. -->
+<range id="anthro-code" href="file://E:/lexicon20180203/lexicon20180203.lift-ranges"/>
+<range id="translation-type" href="file://E:/lexicon20180203/lexicon20180203.lift-ranges"/>
+<!-- The parts of speech are duplicated in another range because derivational affixes require a "From" PartOfSpeech as well as a "To" PartOfSpeech. -->
+<range id="from-part-of-speech" href="file://E:/lexicon20180203/lexicon20180203.lift-ranges"/>
+<range id="morph-type" href="file://E:/lexicon20180203/lexicon20180203.lift-ranges"/>
+<range id="exception-feature" href="file://E:/lexicon20180203/lexicon20180203.lift-ranges"/>
+<range id="inflection-feature" href="file://E:/lexicon20180203/lexicon20180203.lift-ranges"/>
+<range id="inflection-feature-type" href="file://E:/lexicon20180203/lexicon20180203.lift-ranges"/>
+<range id="mood-feature-value" href="file://E:/lexicon20180203/lexicon20180203.lift-ranges"/>
+<range id="absten-feature-value" href="file://E:/lexicon20180203/lexicon20180203.lift-ranges"/>
+<range id="asp-feature-value" href="file://E:/lexicon20180203/lexicon20180203.lift-ranges"/>
+<range id="class-feature-value" href="file://E:/lexicon20180203/lexicon20180203.lift-ranges"/>
+<range id="Noun-slot" href="file://E:/lexicon20180203/lexicon20180203.lift-ranges"/>
+<range id="Verb-slot" href="file://E:/lexicon20180203/lexicon20180203.lift-ranges"/>
+<range id="Noun-infl-class" href="file://E:/lexicon20180203/lexicon20180203.lift-ranges"/>
+<range id="Verb-infl-class" href="file://E:/lexicon20180203/lexicon20180203.lift-ranges"/>
+<range id="do-not-publish-in" href="file://E:/lexicon20180203/lexicon20180203.lift-ranges"/>
+</ranges>
+<fields>
+<field tag="cv-pattern">
+<form lang="en"><text>This records the syllable pattern for a LexPronunciation in FieldWorks.</text></form>
+</field>
+<field tag="tone">
+<form lang="en"><text>This records the tone information for a LexPronunciation in FieldWorks.</text></form>
+</field>
+<field tag="comment">
+<form lang="en"><text>This records a comment (note) in a LexEtymology in FieldWorks.</text></form>
+</field>
+<field tag="import-residue">
+<form lang="en"><text>This records residue left over from importing a standard format file into FieldWorks (or LinguaLinks).</text></form>
+</field>
+<field tag="literal-meaning">
+<form lang="en"><text>This field is used to store a literal meaning of the entry.  Typically, this field is necessary only for a compound or an idiom where the meaning of the whole is different from the sum of its parts.</text></form>
+</field>
+<field tag="summary-definition">
+<form lang="en"><text>A summary definition (located at the entry level in the Entry pane) is a general definition summarizing all the senses of a primary entry. It has no theoretical value; its use is solely pragmatic.</text></form>
+</field>
+<field tag="scientific-name">
+<form lang="en"><text>This field stores the scientific name pertinent to the current sense.</text></form>
+</field>
+</fields>
+</header>
+
+<entry dateCreated="2015-04-28T20:28:41Z" dateModified="2015-06-16T17:15:41Z" id="u_002794b9-f063-4c6b-b77d-39b8ecd618d1" guid="002794b9-f063-4c6b-b77d-39b8ecd618d1">
+<lexical-unit>
+<form lang="tww"><text>u</text></form>
+</lexical-unit>
+<trait  name="morph-type" value="stem"/>
+<sense id="582795c9-9350-4e3b-af34-b72e9b5c89aa">
+<grammatical-info value="Noun">
+<trait name="Noun-infl-class" value="tano"/>
+</grammatical-info>
+<gloss lang="en"><text>fire</text></gloss>
+<gloss lang="tpi"><text>paia</text></gloss>
+</sense>
+</entry>
+
+<entry dateCreated="2015-04-28T20:28:41Z" dateModified="2015-06-16T17:15:12Z" id="ia_00909ffb-7e90-4b76-b948-cae56094abc9" guid="00909ffb-7e90-4b76-b948-cae56094abc9">
+<lexical-unit>
+<form lang="tww"><text>ia</text></form>
+</lexical-unit>
+<trait  name="morph-type" value="stem"/>
+<sense id="5da1286e-07b0-47f2-81ae-5633ca9c875c">
+<grammatical-info value="Noun">
+<trait name="Noun-infl-class" value="he"/>
+</grammatical-info>
+<gloss lang="en"><text>talk</text></gloss>
+<gloss lang="tpi"><text>tok</text></gloss>
+<trait name ="semantic-domain-ddp4" value="3.5 Communication"/>
+<example>
+<form lang="tww"><text>exemple1.1</text></form>
+</example>
+<example>
+<form lang="tww"><text>exemple1.2</text></form>
+</example>
+</sense>
+<sense id="5da1286e-07b0-47f2-81ae-5633ca9c875d">
+<grammatical-info value="Noun">
+<trait name="Noun-infl-class" value="he"/>
+</grammatical-info>
+<gloss lang="en"><text>vernacular_language</text></gloss>
+<gloss lang="tpi"><text>tok_ples</text></gloss>
+<trait name ="semantic-domain-ddp4" value="3.5 Communication"/>
+<example>
+<form lang="tww"><text>exemple2.1</text></form>
+</example>
+<example>
+<form lang="tww"><text>exemple2.2</text></form>
+</example>
+</sense>
+<sense id="5da1286e-07b0-47f2-81ae-5633ca9c875d">
+<grammatical-info value="Noun">
+<trait name="Noun-infl-class" value="he"/>
+</grammatical-info>
+<gloss lang="en"><text>word</text></gloss>
+<gloss lang="tpi"><text>tok</text></gloss>
+<trait name ="semantic-domain-ddp4" value="3.5 Communication"/>
+<example>
+<form lang="tww"><text>exemple3.1</text></form>
+</example>
+<example>
+<form lang="tww"><text>exemple3.2</text></form>
+</example>
+</sense>
+</entry>
+
+<entry dateCreated="2015-07-01T19:19:41Z" dateModified="2016-11-30T17:17:59Z" id="totolo_00b3f2c3-bd07-4282-9287-603f2285c720" guid="00b3f2c3-bd07-4282-9287-603f2285c720">
+<lexical-unit>
+<form lang="tww"><text>totolo</text></form>
+</lexical-unit>
+<trait  name="morph-type" value="stem"/>
+<variant>
+<form lang="tww"><text>totolu</text></form>
+<trait  name="morph-type" value="stem"/>
+</variant>
+<variant>
+<form lang="tww"><text>totlu</text></form>
+<trait  name="morph-type" value="stem"/>
+</variant>
+<sense id="ed8e2d65-f3da-4efe-92cc-f381d08f0c08">
+<grammatical-info value="Noun">
+<trait name="Noun-infl-class" value="fo"/></grammatical-info>
+<gloss lang="en"><text>island</text></gloss>
+<gloss lang="tpi"><text>ailan</text></gloss>
+<trait name ="semantic-domain-ddp4" value="1.2 World"/>
+</sense>
+</entry>
+
+<entry dateCreated="2015-04-28T20:28:41Z" dateModified="2016-02-26T06:27:03Z" id="ofa_00dba42e-1a59-40e8-848d-dbe5bc20012e" guid="00dba42e-1a59-40e8-848d-dbe5bc20012e">
+<lexical-unit>
+<form lang="tww"><text>ofa</text></form>
+</lexical-unit>
+<trait  name="morph-type" value="stem"/>
+<sense id="8c5651bd-27b4-4647-b46b-d7b209a2477f" order="0">
+<grammatical-info value="Adverb">
+</grammatical-info>
+<gloss lang="en"><text>now</text></gloss>
+<gloss lang="tpi"><text>nau</text></gloss>
+<trait name ="semantic-domain-ddp4" value="8.4 Time"/>
+</sense>
+<sense id="aa4c5c86-d9bf-4b23-99c1-f3dffa544175" order="1">
+<grammatical-info value="Adverb">
+</grammatical-info>
+<gloss lang="en"><text>today</text></gloss>
+<gloss lang="tpi"><text>tude</text></gloss>
+</sense>
+</entry>
+
+<entry dateCreated="2015-07-03T01:05:40Z" dateModified="2015-07-03T01:05:40Z" id="tia3_013a1198-262e-45c6-9cab-fb6168f4f223" guid="013a1198-262e-45c6-9cab-fb6168f4f223" order="3">
+<lexical-unit>
+<form lang="tww"><text>tia</text></form>
+</lexical-unit>
+<trait  name="morph-type" value="stem"/>
+<sense id="2a7ddb0c-fd44-409c-8591-1e10f2c37ebe">
+<grammatical-info value="Adverb">
+</grammatical-info>
+<gloss lang="en"><text>yet</text></gloss>
+<gloss lang="tpi"><text>yet</text></gloss>
+</sense>
+</entry>
+
+<entry dateCreated="2017-08-30T11:00:14Z" dateModified="2017-08-30T11:00:14Z" id="waia3_015e37a5-77f2-4c45-9404-e90a36e48014" guid="015e37a5-77f2-4c45-9404-e90a36e48014" order="3">
+<lexical-unit>
+<form lang="tww"><text>waia</text></form>
+</lexical-unit>
+<trait  name="morph-type" value="stem"/>
+<sense id="09af8a01-2e20-4ff0-a7fe-b00c826f12b9">
+<grammatical-info value="PrN (oronym)">
+</grammatical-info>
+<gloss lang="en"><text>Waia</text></gloss>
+</sense>
+</entry>
+
+<entry dateCreated="2015-06-17T15:05:37Z" dateModified="2015-06-17T15:05:37Z" id="heneli2_01c07bb2-e5c0-4166-90fe-5be81ab804af" guid="01c07bb2-e5c0-4166-90fe-5be81ab804af" order="2">
+<lexical-unit>
+<form lang="tww"><text>heneli</text></form>
+</lexical-unit>
+<trait  name="morph-type" value="stem"/>
+<sense id="4c7c3d22-bee1-419e-8280-d60c8e0ea076">
+<grammatical-info value="Adjective">
+</grammatical-info>
+<gloss lang="en"><text>hot</text></gloss>
+<gloss lang="tpi"><text>hotpla</text></gloss>
+</sense>
+<sense id="4c7c3d22-bee1-419e-8280-d60c8e0ea077">
+<grammatical-info value="Noun">
+</grammatical-info>
+<gloss lang="en"><text>sun</text></gloss>
+<gloss lang="tpi"><text>san</text></gloss>
+</sense>
+</entry>
+
+<entry dateCreated="2015-05-04T15:51:34Z" dateModified="2017-06-30T10:11:52Z" id="eifei_01ea07b3-2da9-4786-a882-56129914469d" guid="01ea07b3-2da9-4786-a882-56129914469d">
+<lexical-unit>
+<form lang="tww"><text>eifei</text></form>
+</lexical-unit>
+<trait  name="morph-type" value="stem"/>
+<variant>
+<form lang="tww"><text>efa</text></form>
+<trait  name="morph-type" value="stem"/>
+</variant>
+<variant>
+<form lang="tww"><text>elifei</text></form>
+<trait  name="morph-type" value="stem"/>
+</variant>
+<sense id="4e7e5d63-4264-4df3-b802-6338553f99e6" order="0">
+<grammatical-info value="Verb">
+</grammatical-info>
+<gloss lang="en"><text>hold</text></gloss>
+<gloss lang="tpi"><text>holim</text></gloss>
+<trait name ="semantic-domain-ddp4" value="7 Physical actions"/>
+</sense>
+<sense id="831aa88a-ac64-43e9-9906-b989a132a824" order="1">
+<grammatical-info value="Noun">
+</grammatical-info>
+<gloss lang="en"><text>fire_clamp</text></gloss>
+<gloss lang="tpi"><text>sisis</text></gloss>
+</sense>
+</entry>
+
+<entry dateCreated="2015-04-28T20:28:41Z" dateModified="2017-07-03T14:36:29Z" id="koma_02018975-937e-4b3f-a47c-72354f62b345" guid="02018975-937e-4b3f-a47c-72354f62b345">
+<lexical-unit>
+<form lang="tww"><text>koma</text></form>
+</lexical-unit>
+<trait  name="morph-type" value="stem"/>
+<variant>
+<form lang="tww"><text>komnaa</text></form>
+<trait  name="morph-type" value="stem"/>
+</variant>
+<variant>
+<form lang="tww"><text>komna</text></form>
+<trait  name="morph-type" value="stem"/>
+</variant>
+<relation type="_component-lexeme" ref="ko_4fd7f481-ce0f-47bd-92b5-391d39a69c51" order="0">
+<trait name="is-primary" value="true"/>
+<trait name="complex-form-type" value=""/>
+<field type="summary">
+<form lang="en"><text>to be analysed ko-ma</text></form>
+</field>
+</relation>
+<sense id="69158bbf-57b5-4bcc-9d84-0683781d2aac">
+<grammatical-info value="Adverb">
+</grammatical-info>
+<gloss lang="en"><text>on_the_top</text></gloss>
+<gloss lang="tpi"><text>antap</text></gloss>
+<trait name ="semantic-domain-ddp4" value="8.5.2 Direction"/>
+</sense>
+</entry>
+
+<entry dateCreated="2017-05-12T11:23:14Z" dateModified="2017-05-12T11:23:14Z" id="eli3_02d224d0-00bb-4156-9a59-4c67eeac1165" guid="02d224d0-00bb-4156-9a59-4c67eeac1165" order="3">
+<lexical-unit>
+<form lang="tww"><text>eli</text></form>
+</lexical-unit>
+<trait  name="morph-type" value="stem"/>
+<sense id="e490592d-c513-49cc-856d-7c5f5f0b1e41">
+<grammatical-info value="Adjective">
+</grammatical-info>
+<gloss lang="en"><text>sharp</text></gloss>
+<gloss lang="tpi"><text>sap</text></gloss>
+</sense>
+</entry>
+
+</lift>
